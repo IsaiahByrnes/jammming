@@ -1,6 +1,6 @@
 let token;
 const clientID = 'bb04cb3a575846f6b87d3af92aaa49a8';
-const redirectURI = "http://localhost:3000/";
+const redirectURI = "https://loving-einstein-17e668.netlify.app/";
 
 
 const Spotify = {
