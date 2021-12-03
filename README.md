@@ -1,4 +1,4 @@
-#Jammming (Codecademy Project)
+# Jammming (Codecademy Project)
 
 The Jammming web application allows you to search for music, add it to a playlist and then save that playlist to your spotify account. This app was made using some prebuilt components and guidance from the Codecademy Front-End Engineer ciriculum. The app is simple and is more of a display of working with API's and React State.
 
